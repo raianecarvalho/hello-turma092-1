@@ -2,7 +2,6 @@ Coloque o seu nome e GitHub na lista:
 
 Jneves-jneves660
 Alexandre Pimentel - profxx
-Ana Beatriz Carvalho - ana-bia-carvalho
 Thiago Campos - nagel02
 Amine Gomes - aminegomes
 Maria Paula Coutinho - MPaulaCout
@@ -22,4 +21,5 @@ Ana Clara - anaclaraa25
 Livia Borges - livia247
 Rafaela Barra - RafaelaBarra
 Vinícius Vilarinho
+Gabriel Graciani de Souza Pereira - gabreel13
 Isabela Silva - isabelagomes19
